@@ -1,0 +1,56 @@
+{
+    "id": "OjFFRUEzNENDMzc0MjU2MzFENkQyQTk5RjVERThDNkJF",
+    "status": "ready",
+    "settings": {
+        "updateSchema": [],
+        "aclOnReplacingObjects": "use_existing",
+        "aclOnNewObjects": [
+            "keep_acl_as_source_object"
+        ],
+        "defaultAction": "replace"
+    },
+    "content": [
+        {
+            "id": "D1DFA8D59741122467C6348ED2FB2DB9",
+            "name": "test_content_user_group",
+            "version": "854D3030594D4B6727CE5B9B21B80F38",
+            "type": 34,
+            "owner": {
+                "id": "7FC05A65473CE2FD845CE6A1D3F13233"
+            },
+            "dateCreated": "2022-08-26T09:36:53.000+0000",
+            "dateModified": "2022-08-26T09:36:54.000+0000",
+            "action": "replace",
+            "level": "configuration_object",
+            "type_name": "user"
+        },
+        {
+            "id": "9375B8017741E027A7BF40ABCCE045AB",
+            "name": "test_content_user",
+            "version": "B11F3E02624B643B573120ACDCCF472C",
+            "type": 34,
+            "owner": {
+                "id": "7FC05A65473CE2FD845CE6A1D3F13233"
+            },
+            "dateCreated": "2022-08-26T09:38:19.000+0000",
+            "dateModified": "2022-08-26T09:38:20.000+0000",
+            "action": "replace",
+            "level": "configuration_object",
+            "type_name": "user"
+        },
+        {
+            "id": "8DB4109A884C475633307EA7FF13D28D",
+            "name": "test_content_group_1",
+            "version": "F0D603F0FA4C16B166EB22842052B6E8",
+            "type": 77,
+            "owner": {
+                "id": "7FC05A65473CE2FD845CE6A1D3F13233"
+            },
+            "dateCreated": "2022-08-26T09:36:24.000+0000",
+            "dateModified": "2022-08-26T09:54:35.000+0000",
+            "action": "replace",
+            "level": "configuration_object",
+            "type_name": "content_group"
+        }
+    ]
+}
